@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+<!-- Head UV: top, bottom, sides, front, and back -->
+<rect x="8" y="0" width="8" height="8" fill="#111318"/><rect x="9" y="0" width="3" height="2" fill="#252a31"/><rect x="14" y="1" width="2" height="5" fill="#08090b"/>
+<rect x="16" y="0" width="8" height="8" fill="#d99a72"/>
+<rect x="0" y="8" width="8" height="8" fill="#111318"/><rect x="0" y="8" width="2" height="6" fill="#08090b"/>
+<rect x="8" y="8" width="8" height="8" fill="#d99a72"/><rect x="8" y="8" width="8" height="2" fill="#111318"/><rect x="9" y="8" width="2" height="3" fill="#252a31"/><rect x="14" y="8" width="2" height="4" fill="#08090b"/><rect x="10" y="12" width="1" height="1" fill="#20242b"/><rect x="13" y="12" width="1" height="1" fill="#20242b"/><rect x="11" y="15" width="3" height="1" fill="#a86652"/>
+<rect x="16" y="8" width="8" height="8" fill="#d99a72"/><rect x="22" y="8" width="2" height="6" fill="#08090b"/>
+<rect x="24" y="8" width="8" height="8" fill="#111318"/><rect x="26" y="8" width="3" height="2" fill="#252a31"/>
+<!-- Hoodie torso UV -->
+<rect x="20" y="16" width="8" height="4" fill="#23683a"/>
+<rect x="28" y="16" width="8" height="4" fill="#174d2d"/>
+<rect x="16" y="20" width="4" height="12" fill="#1d5d35"/>
+<rect x="20" y="20" width="8" height="12" fill="#287a43"/>
+<rect x="28" y="20" width="4" height="12" fill="#174d2d"/>
+<rect x="32" y="20" width="8" height="12" fill="#23683a"/>
+<!-- Hoodie strings and duck on front -->
+<rect x="21" y="20" width="1" height="4" fill="#d7c9a0"/><rect x="26" y="20" width="1" height="4" fill="#d7c9a0"/><rect x="20" y="24" width="8" height="1" fill="#1a522e"/>
+<rect x="22" y="26" width="4" height="3" fill="#f4ca32"/><rect x="21" y="27" width="6" height="3" fill="#f4ca32"/><rect x="23" y="25" width="3" height="2" fill="#ffe15a"/><rect x="25" y="26" width="2" height="1" fill="#ffe15a"/><rect x="27" y="27" width="2" height="1" fill="#e48b25"/><rect x="24" y="26" width="1" height="1" fill="#202020"/><rect x="22" y="30" width="1" height="1" fill="#e49d25"/><rect x="26" y="30" width="1" height="1" fill="#e49d25"/>
+<rect x="22" y="32" width="4" height="1" fill="#174d2d"/>
+<!-- Back lettering KBW, then sword and pickaxe below -->
+<rect x="33" y="21" width="6" height="1" fill="#111318"/><rect x="33" y="22" width="1" height="5" fill="#111318"/><rect x="36" y="22" width="2" height="1" fill="#111318"/><rect x="36" y="24" width="2" height="1" fill="#111318"/><rect x="36" y="26" width="2" height="1" fill="#111318"/>
+<rect x="33" y="28" width="1" height="4" fill="#111318"/><rect x="34" y="28" width="3" height="1" fill="#111318"/><rect x="36" y="29" width="1" height="2" fill="#111318"/><rect x="34" y="31" width="3" height="1" fill="#111318"/>
+<rect x="38" y="28" width="1" height="4" fill="#111318"/><rect x="38" y="28" width="2" height="1" fill="#111318"/><rect x="38" y="31" width="2" height="1" fill="#111318"/>
+<rect x="35" y="33" width="1" height="2" fill="#77e8e4"/><rect x="36" y="32" width="1" height="2" fill="#b8ffff"/><rect x="37" y="31" width="1" height="2" fill="#77e8e4"/><rect x="34" y="34" width="4" height="1" fill="#8b5a35"/><rect x="35" y="35" width="2" height="1" fill="#6d432b"/>
+<rect x="40" y="32" width="1" height="1" fill="#b8ffff"/><rect x="39" y="33" width="3" height="1" fill="#77e8e4"/><rect x="39" y="34" width="2" height="1" fill="#8b5a35"/><rect x="38" y="33" width="1" height="3" fill="#8b5a35"/>
+<!-- Right arm UV -->
+<rect x="44" y="16" width="4" height="4" fill="#23683a"/><rect x="48" y="16" width="4" height="4" fill="#174d2d"/><rect x="40" y="20" width="4" height="12" fill="#1b5932"/><rect x="44" y="20" width="4" height="12" fill="#287a43"/><rect x="48" y="20" width="4" height="12" fill="#1e6338"/><rect x="52" y="20" width="4" height="12" fill="#174d2d"/>
+<!-- Right leg UV: blue pants and black shoe -->
+<rect x="4" y="16" width="8" height="4" fill="#24588f"/><rect x="12" y="16" width="4" height="4" fill="#1e4d80"/><rect x="0" y="20" width="4" height="12" fill="#24588f"/><rect x="4" y="20" width="8" height="12" fill="#347cc4"/><rect x="12" y="20" width="4" height="12" fill="#1e4d80"/><rect x="4" y="32" width="8" height="4" fill="#111318"/>
+<!-- Left arm UV -->
+<rect x="36" y="48" width="4" height="4" fill="#23683a"/><rect x="40" y="48" width="4" height="4" fill="#174d2d"/><rect x="32" y="52" width="4" height="12" fill="#1b5932"/><rect x="36" y="52" width="4" height="12" fill="#287a43"/><rect x="40" y="52" width="4" height="12" fill="#1e6338"/><rect x="44" y="52" width="4" height="12" fill="#174d2d"/>
+<!-- Left leg UV -->
+<rect x="20" y="48" width="8" height="4" fill="#24588f"/><rect x="28" y="48" width="4" height="4" fill="#1e4d80"/><rect x="16" y="52" width="4" height="12" fill="#24588f"/><rect x="20" y="52" width="8" height="12" fill="#347cc4"/><rect x="28" y="52" width="4" height="12" fill="#1e4d80"/><rect x="20" y="60" width="8" height="4" fill="#111318"/>
+</svg>
